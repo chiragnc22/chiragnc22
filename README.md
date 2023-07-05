@@ -5,10 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/chiraaaagggg" target="blank"><img src="https://img.shields.io/twitter/follow/chiraaaagggg?logo=twitter&style=for-the-badge" alt="chiraaaagggg" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Unity Engine queries, Game Dev queries**
+- 💬 Ask me about **React, Unity Engine**
 
+- 📫 How to reach me **chiragncx@gmail.com**
+
+- 📄 Know about me [https://mega.nz/file/mHAyyAwa#mFtQBIdUBpVZWpjywqzEYPdvq2SZT7daRcWZWAVy_6I](https://mega.nz/file/mHAyyAwa#mFtQBIdUBpVZWpjywqzEYPdvq2SZT7daRcWZWAVy_6I)
 - ⚡ Fun fact **I am a weeb**
 
 <h3 align="left">Connect with me:</h3>
